@@ -1,0 +1,51 @@
+
+body{
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    padding: 2rem;
+    margin: 2rem;
+}
+.Jessica{
+    background-color: hsl(0, 0%, 20%);
+    text-align: center;
+    border-radius: 10px;
+    width: 300px;
+}
+img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+h2{
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+p{
+    font-size: 1rem;
+    color: hsl(0, 7.80%, 74.90%);
+}
+.map{
+    color: hsl(75, 94%, 57%);
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin: 10px 0;
+    padding: 2rem;
+}
+.rush{
+    background-color: hsl(0, 2.60%, 30.20%);
+    color: hsl(0, 0%, 100%);
+    padding: 1rem;
+    border-radius: 7px;
+    text-align: center;
+    text-decoration: solid;
+}
